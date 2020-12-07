@@ -3,7 +3,7 @@ body {
   font-size: 16px;
   color: black;
   background-color: #C38163;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: helvatica, sans-serif
 }
 
 #header-nav {
@@ -14,7 +14,7 @@ body {
 }
 
 .navbar-brand h1 {
-  font-family: 'Lora', serif;
+  font-family: 'Times', serif;
   color: #EEC5A9;
   font-size: 1.8em;
   text-transform: uppercase;
